@@ -1,6 +1,6 @@
 
 #Pizza - Sales- Analysis -- Mentorness Internship
-Amit Sharma   Date -- 17/07/2024 
+Amit Sharma -- 17- July - 2024 
 
 
 USE Pizza_sales
